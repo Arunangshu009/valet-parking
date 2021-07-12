@@ -1,0 +1,35 @@
+#body_background{
+    background-position: center;
+  }
+  h1
+  {
+    color: goldenrod; 
+    font-size: 40px;
+    text-decoration: underline;
+    text-decoration-style: double, wavy, red;
+  }
+  h4
+  {
+    color:  yellow; 
+    text-decoration: underline;
+    text-decoration-style: double, Red;
+  }
+  h3{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-style: wavy, black;
+  }
+  #myCanvas
+  {
+    background-image: url("images.jpg");
+    border: 25px;
+    background-color: white; 
+    border-style: ridge;
+  }
+  span{
+    font-size: 20px;
+  }
+  body{
+    margin-left: 200;
+    margin-right: 200px;
+  }
